@@ -1,0 +1,50 @@
+==================================================================
+https://keybase.io/zaphar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jeremy.marzhillstudios.com
+  * I am zaphar (https://keybase.io/zaphar) on keybase.
+  * I have a public key ASAee3ZLo-jf3UmQatfQ1uyNOwfUYa3j4OM-gq5xStSMUQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e62b22cb1e2101f635abaa7af5109c33cef142931a0b43cf0cedd7416dbd816f0a",
+            "host": "keybase.io",
+            "kid": "01201e7b764ba3e8dfdd49906ad7d0d6ec8d3b07d461ade3e0e33e82ae714ad48c510a",
+            "uid": "b5257a3b2c848d7dcfb65a92b68d8819",
+            "username": "zaphar"
+        },
+        "service": {
+            "hostname": "jeremy.marzhillstudios.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473800241,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473800180,
+        "hash": "97f0f140d07891ffd9cdbb17a0f50088a1113d028a4dd719c405d4f701202f3f9487d7634d5086282dff6e43d3ecb5c381f08aa2386db297d7342ba3b40bea6e",
+        "seqno": 634261
+    },
+    "prev": "a9764d296c6ceab64494f844afed1e5365a118fd586d07bec25da6136a40e6f4",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHnt2S6Po391JkGrX0NbsjTsH1GGt4+DjPoKucUrUjFEKp3BheWxvYWTFAwB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZTYyYjIyY2IxZTIxMDFmNjM1YWJhYTdhZjUxMDljMzNjZWYxNDI5MzFhMGI0M2NmMGNlZGQ3NDE2ZGJkODE2ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWU3Yjc2NGJhM2U4ZGZkZDQ5OTA2YWQ3ZDBkNmVjOGQzYjA3ZDQ2MWFkZTNlMGUzM2U4MmFlNzE0YWQ0OGM1MTBhIiwidWlkIjoiYjUyNTdhM2IyYzg0OGQ3ZGNmYjY1YTkyYjY4ZDg4MTkiLCJ1c2VybmFtZSI6InphcGhhciJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiamVyZW15Lm1hcnpoaWxsc3R1ZGlvcy5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDczODAwMjQxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzM4MDAxODAsImhhc2giOiI5N2YwZjE0MGQwNzg5MWZmZDljZGJiMTdhMGY1MDA4OGExMTEzZDAyOGE0ZGQ3MTljNDA1ZDRmNzAxMjAyZjNmOTQ4N2Q3NjM0ZDUwODYyODJkZmY2ZTQzZDNlY2I1YzM4MWYwOGFhMjM4NmRiMjk3ZDczNDJiYTNiNDBiZWE2ZSIsInNlcW5vIjo2MzQyNjF9LCJwcmV2IjoiYTk3NjRkMjk2YzZjZWFiNjQ0OTRmODQ0YWZlZDFlNTM2NWExMThmZDU4NmQwN2JlYzI1ZGE2MTM2YTQwZTZmNCIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEC7VCLgrplyybaga8OZMWE1gu9aCtWPlN4jbDGJf3LfYYg0ACcTKyPSYMBNXTByfytIQn/6DJoCSU8Es3S6qBEHqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgicMck31eprrxLL1HkSNZY6eBHT9vrE209vmhTor3cWSjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
