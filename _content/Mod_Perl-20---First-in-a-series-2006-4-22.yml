@@ -1,0 +1,9 @@
+title: Mod_Perl 2.0 - First in a series
+time: 2006-04-22 20:40:00
+tags:
+    - APIs
+    - Perl
+    - Software-Development
+content-type: html
+content: |
+I have put up a <a href="http://jeremy.marzhillstudios.com/index.php/mod_perl-20/mod_perl-20-a-real-world-guide-part-i/">new page on mod_perl development</a> on the site. I hope it is of use to someone. If it isn't well at least I still have my own notes :-) You can find it here: <a href="http://jeremy.marzhillstudios.com/index.php/mod_perl-20/mod_perl-20-a-real-world-guide-part-i/">Mod_Perl 2.0 - A Real World Guide - part I</a>

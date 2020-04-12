@@ -1,0 +1,33 @@
+<?xml encoding="utf-8" ?>
+<rss version="2.0"> 
+  <channel> 
+    <title>Sample Title</title> 
+    <description>Sample Description.</description> 
+    <link></link> 
+    <category domain="">Sample/Computers/Software/Internet/Site Management/Content Management</category> 
+    <copyright></copyright> 
+    <docs></docs> 
+    <language>en-us</language> 
+    <lastBuildDate>Tue, 19 Oct 2004 13:39:14 -0400</lastBuildDate> 
+    <pubDate>Tue, 19 Oct 2004 13:38:55 -0400</pubDate> 
+    <webMaster>sample@example.com</webMaster> 
+    <generator>molehill-0.0.1</generator> 
+    <!--<image> 
+      <url>http://www.feedforall.com/ffalogo48x48.gif</url> 
+      <title>FeedForAll Sample Feed</title> 
+      <link>http://www.feedforall.com/industry-solutions.htm</link> 
+      <description>FeedForAll Sample Feed</description> 
+      <width>48</width> 
+      <height>48</height> 
+    </image>--> 
+    <item> 
+      <title>Sample Item Title</title> 
+      <description>Sample item description</description> 
+      <link></link> 
+      <category>Sample/</category> 
+      <!--<comments></comments>-->
+      <pubDate>Tue, 19 Oct 2004 11:09:11 -0400</pubDate> 
+    </item> 
+  </channel> 
+</rss>
+

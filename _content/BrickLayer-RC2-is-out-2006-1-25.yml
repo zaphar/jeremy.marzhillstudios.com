@@ -1,0 +1,10 @@
+title: BrickLayer RC2 is out
+time: 2006-01-25 13:41:38
+tags:
+    - Site-News
+    - BrickLayer
+    - Perl
+    - Software-Development
+content-type: html
+content: |
+<a href='/personal/BricklayerRC2.tar.gz' title='Bricklayer RC2'>Bricklayer RC2</a> Download it while it's hot. I have added a number of bugfixes and enhancements. But it's still in testing so don't plan on using this in a production environment yet :-)
