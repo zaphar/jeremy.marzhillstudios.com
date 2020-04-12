@@ -23,5 +23,5 @@ taxonomies = [
 even_menu = [
     {url = "$BASE_URL", name = "Home"},
     {url = "$BASE_URL/tags", name = "Tags"},
-#    {url = "$BASE_URL/about", name = "About"},
+    {url = "$BASE_URL/pdf/resume-jeremy-wall.pdf", name = "Resume/CV"},
 ]
