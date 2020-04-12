@@ -1,7 +1,8 @@
 +++
 title = "Measuring Developer Skill"
 author = "Jeremy Wall"
-date = 2015-05-09
+date = 2020-04-12
+draft = true
 in_search_index = true
 [taxonomies]
 tags = [
