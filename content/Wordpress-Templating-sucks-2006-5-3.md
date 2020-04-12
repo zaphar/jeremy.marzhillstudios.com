@@ -1,6 +1,6 @@
 +++
 title = "Wordpress Templating sucks..."
-date = 2006-05-03T10:40:31
+date = 2006-05-03T10:40:31Z
 in_search_index = true
 
 [taxonomies]

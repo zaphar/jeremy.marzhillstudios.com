@@ -1,6 +1,6 @@
 +++
 title = "Moose::Role Testing"
-date = 2007-09-22T05:28:23
+date = 2007-09-22T05:28:23Z
 in_search_index = true
 [taxonomies]
 tags = [

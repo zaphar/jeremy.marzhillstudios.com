@@ -1,6 +1,6 @@
 +++
 title = "Bricklayer::Templater is on CPAN"
-date = 2007-08-14T16:20:30
+date = 2007-08-14T16:20:30Z
 in_search_index = true
 [taxonomies]
 tags = [

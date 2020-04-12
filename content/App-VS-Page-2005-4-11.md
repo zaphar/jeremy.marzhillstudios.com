@@ -1,6 +1,6 @@
 +++
 title = "App VS. Page"
-date = 2005-04-11T22:49:33
+date = 2005-04-11T22:49:33Z
 in_search_index = true
 [taxonomies]
 tags = [

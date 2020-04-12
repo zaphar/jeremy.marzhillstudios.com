@@ -1,6 +1,6 @@
 +++
 title = "OpenOffice.org || A real competitor to Office?"
-date = 2005-11-07T06:59:30
+date = 2005-11-07T06:59:30Z
 in_search_index = true
 [taxonomies]
 tags = [

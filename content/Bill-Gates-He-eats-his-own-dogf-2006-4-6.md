@@ -1,6 +1,6 @@
 +++
 title = "Bill Gates. He eats his own dogfood."
-date = 2006-04-06T09:09:26
+date = 2006-04-06T09:09:26Z
 in_search_index = true
 [taxonomies]
 tags = [

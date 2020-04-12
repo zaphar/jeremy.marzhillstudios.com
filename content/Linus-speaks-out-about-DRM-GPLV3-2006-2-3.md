@@ -1,7 +1,7 @@
 +++
 title = "Linus speaks out about DRM/GPLV3"
 in_search_index = true
-date = 2006-02-03T11:36:11
+date = 2006-02-03T11:36:11Z
 [taxonomies]
 tags = [
 "Site-News",

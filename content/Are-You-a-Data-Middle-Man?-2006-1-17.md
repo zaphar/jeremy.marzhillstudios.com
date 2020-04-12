@@ -1,6 +1,6 @@
 +++
 title = "Are You a Data Middle Man?"
-date = 2006-01-17T16:29:22
+date = 2006-01-17T16:29:22Z
 in_search_index = true
 [taxonomies]
 tags = [

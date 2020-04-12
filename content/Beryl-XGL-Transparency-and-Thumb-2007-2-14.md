@@ -1,6 +1,6 @@
 +++
 title = "Beryl/XGL Transparency and Thumbnailing"
-date = 2007-02-14T13:48:20
+date = 2007-02-14T13:48:20Z
 in_search_index = true
 [taxonomies]
 tags = [

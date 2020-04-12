@@ -1,6 +1,6 @@
 +++
 title = "The Perl Deployment Kit"
-date = 2005-06-02T01:30:17
+date = 2005-06-02T01:30:17Z
 in_search_index = true
 
 [taxonomies]

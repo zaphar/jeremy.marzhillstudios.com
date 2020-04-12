@@ -1,6 +1,6 @@
 +++
 title = "XML, Menus, and PHP"
-date = 2005-09-12T20:50:08
+date = 2005-09-12T20:50:08Z
 in_search_index = true
 
 [taxonomies]

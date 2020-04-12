@@ -1,6 +1,6 @@
 +++
 title = "Data::Annotated and Class::Data::Annotated"
-date = 2007-08-27T16:43:45
+date = 2007-08-27T16:43:45Z
 in_search_index = true
 [taxonomies]
 tags = [

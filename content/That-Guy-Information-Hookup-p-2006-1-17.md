@@ -1,6 +1,6 @@
 +++
 title = "That Guy (Information Hookup part II)"
-date = 2006-01-17T14:13:24
+date = 2006-01-17T14:13:24Z
 in_search_index = true
 [taxonomies]
 tags = [

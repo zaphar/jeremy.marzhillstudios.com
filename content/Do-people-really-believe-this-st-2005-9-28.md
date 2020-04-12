@@ -1,6 +1,6 @@
 +++
 title = "Do people really believe this stuff?"
-date = 2005-09-28T21:17:31
+date = 2005-09-28T21:17:31Z
 in_search_index = true
 [taxonomies]
 tags = [

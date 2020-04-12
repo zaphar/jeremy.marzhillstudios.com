@@ -1,6 +1,6 @@
 +++
 title = "Texas Attorney General vs Sony BMG"
-date = 2005-11-21T12:25:18
+date = 2005-11-21T12:25:18Z
 in_search_index = true
 [taxonomies]
 tags = [

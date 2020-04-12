@@ -1,6 +1,6 @@
 +++
 title = "Did you ever need to index an xml doc"
-date = 2006-05-18T16:26:57
+date = 2006-05-18T16:26:57Z
 in_search_index = true
 [taxonomies]
 tags = [

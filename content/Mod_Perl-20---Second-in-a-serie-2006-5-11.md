@@ -1,6 +1,6 @@
 +++
 title = "Mod_Perl 2.0 - Second in a series"
-date = 2006-05-11T11:24:43
+date = 2006-05-11T11:24:43Z
 in_search_index = true
 [taxonomies]
 tags = [

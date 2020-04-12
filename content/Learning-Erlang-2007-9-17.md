@@ -1,6 +1,6 @@
 +++
 title = "Learning Erlang"
-date = 2007-09-17T03:21:21
+date = 2007-09-17T03:21:21Z
 in_search_index = true
 [taxonomies]
 tags = [

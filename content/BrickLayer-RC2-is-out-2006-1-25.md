@@ -1,6 +1,6 @@
 +++
 title = "BrickLayer RC2 is out"
-date = 2006-01-25T13:41:38
+date = 2006-01-25T13:41:38Z
 in_search_index = true
 [taxonomies]
 tags = [

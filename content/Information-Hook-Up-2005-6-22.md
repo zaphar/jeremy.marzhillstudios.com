@@ -1,6 +1,6 @@
 +++
 title = "Information Hook-Up"
-date = 2005-06-22T05:08:26
+date = 2005-06-22T05:08:26Z
 in_search_index = true
 [taxonomies]
 tags = [

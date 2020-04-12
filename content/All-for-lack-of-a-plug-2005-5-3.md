@@ -1,6 +1,6 @@
 +++
 title = "All for lack of a plug"
-date = 2005-05-03T00:06:25
+date = 2005-05-03T00:06:25Z
 in_search_index = true
 [taxonomies]
 tags = [

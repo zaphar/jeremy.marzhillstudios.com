@@ -1,6 +1,6 @@
 +++
 title = "Looking for a laptop"
-date = 2007-03-23T21:40:31
+date = 2007-03-23T21:40:31Z
 in_search_index = true
 [taxonomies]
 tags = [

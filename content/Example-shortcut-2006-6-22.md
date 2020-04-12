@@ -1,6 +1,6 @@
 +++
 title = "Example shortcut"
-date = 2006-06-22T15:15:34
+date = 2006-06-22T15:15:34Z
 in_search_index = true
 [taxonomies]
 tags = [

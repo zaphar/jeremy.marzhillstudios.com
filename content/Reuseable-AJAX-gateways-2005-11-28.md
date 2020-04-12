@@ -1,6 +1,6 @@
 +++
 title = "Reuseable AJAX gateways"
-date = 2005-11-28T16:13:20
+date = 2005-11-28T16:13:20Z
 in_search_index = true
 [taxonomies]
 tags = [

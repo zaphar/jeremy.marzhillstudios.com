@@ -1,6 +1,6 @@
 +++
 title = "A long overdue update"
-date = 2013-02-13T22:24:00
+date = 2013-02-13T22:24:00Z
 in_search_index = true
 [taxonomies]
 tags = [

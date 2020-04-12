@@ -1,6 +1,6 @@
 +++
 title = "A day in the life of Marzhill Musings"
-date = 2006-01-24T14:45:58
+date = 2006-01-24T14:45:58Z
 in_search_index = true
 [taxonomies]
 tags = [

@@ -1,6 +1,6 @@
 +++
 title = "Oh my goodness he just updated his blog!!"
-date = 2009-04-05T20:29:18
+date = 2009-04-05T20:29:18Z
 in_search_index = true
 [taxonomies]
 tags = [ 

@@ -1,6 +1,6 @@
 +++
 title = "Mod_Perl 2.0 - writing a useful handler"
-date = 2006-05-11T11:15:09
+date = 2006-05-11T11:15:09Z
 in_search_index = true
 [taxonomies]
 tags = [

@@ -1,6 +1,6 @@
 +++
 title = "SQL Stupidity part II"
-date = 2005-09-07T21:31:35
+date = 2005-09-07T21:31:35Z
 in_search_index = true
 
 [taxonomies]

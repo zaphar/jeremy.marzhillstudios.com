@@ -1,6 +1,6 @@
 +++
 title = "More Beryl/XGL goodness Tabbing"
-date = 2007-02-13T12:48:52
+date = 2007-02-13T12:48:52Z
 in_search_index = true
 [taxonomies]
 tags = [

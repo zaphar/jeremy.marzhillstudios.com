@@ -1,6 +1,6 @@
 +++
 title = "I don't usually do this"
-date = 2006-04-05T10:54:02
+date = 2006-04-05T10:54:02Z
 in_search_index = true
 [taxonomies]
 tags = [

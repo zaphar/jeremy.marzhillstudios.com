@@ -1,6 +1,6 @@
 +++
 title = "Transactions as a debugging tool"
-date = 2006-06-07T14:13:13
+date = 2006-06-07T14:13:13Z
 in_search_index = true
 [taxonomies]
 tags = [ 

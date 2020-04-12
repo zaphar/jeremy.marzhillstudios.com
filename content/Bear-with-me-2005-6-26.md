@@ -1,6 +1,6 @@
 +++
 title = "Bear with me"
-date = 2005-06-26T06:07:53
+date = 2005-06-26T06:07:53Z
 in_search_index = true
 [taxonomies]
 tags = [

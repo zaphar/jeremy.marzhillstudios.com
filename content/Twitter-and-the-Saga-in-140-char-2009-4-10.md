@@ -1,6 +1,6 @@
 +++
 title = "Twitter and the Saga in 140 character chunks"
-date = 2009-04-10T13:47:53
+date = 2009-04-10T13:47:53Z
 in_search_index = true
 [taxonomies]
 tags = [

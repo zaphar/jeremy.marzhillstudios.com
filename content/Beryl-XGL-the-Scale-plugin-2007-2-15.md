@@ -1,6 +1,6 @@
 +++
 title = "Beryl/XGL the Scale plugin"
-date = 2007-02-15T15:32:10
+date = 2007-02-15T15:32:10Z
 in_search_index = true
 [taxonomies]
 tags = [

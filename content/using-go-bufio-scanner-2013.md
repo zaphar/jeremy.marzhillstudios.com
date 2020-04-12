@@ -1,6 +1,6 @@
 +++
 title = "Using bufio.Scanner to build a Tokenizer"
-date = 2013-05-09T00:00:00
+date = 2013-05-09T00:00:00Z
 in_search_index = true
 [taxonomies]
 tags = [

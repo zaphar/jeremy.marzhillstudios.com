@@ -1,6 +1,6 @@
 +++
 title = "Transparency and Thumbnailing"
-date = 2007-02-14T13:47:43
+date = 2007-02-14T13:47:43Z
 in_search_index = true
 [taxonomies]
 tags = [

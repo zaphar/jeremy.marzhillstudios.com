@@ -1,6 +1,6 @@
 +++
 title = "Really liking the new kde4"
-date = 2009-06-27T13:13:20
+date = 2009-06-27T13:13:20Z
 in_search_index = true
 [taxonomies]
 tags = [

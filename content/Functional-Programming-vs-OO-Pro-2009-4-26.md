@@ -1,6 +1,6 @@
 +++
 title = "Functional Programming vs OO Programming"
-date = 2009-04-26T20:52:39
+date = 2009-04-26T20:52:39Z
 in_search_index = true
 [taxonomies]
 tags = [

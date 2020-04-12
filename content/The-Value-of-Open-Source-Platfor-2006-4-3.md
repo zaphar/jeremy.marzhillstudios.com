@@ -1,6 +1,6 @@
 +++
 title = "The Value of Open Source Platforms"
-date = 2006-04-03T22:34:45
+date = 2006-04-03T22:34:45Z
 in_search_index = true
 [taxonomies]
 tags = [

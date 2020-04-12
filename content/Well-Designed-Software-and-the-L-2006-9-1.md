@@ -1,6 +1,6 @@
 +++
 title = "Well Designed Software and the Last Hill"
-date = 2006-09-01T11:15:20
+date = 2006-09-01T11:15:20Z
 in_search_index = true
 
 [taxonomies]

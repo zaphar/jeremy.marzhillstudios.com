@@ -1,6 +1,6 @@
 +++
 title = "Would you like a little Moose with that?"
-date = 2007-03-20T15:57:54
+date = 2007-03-20T15:57:54Z
 in_search_index = true
 
 [taxonomies]

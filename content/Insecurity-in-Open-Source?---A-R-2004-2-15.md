@@ -1,6 +1,6 @@
 +++
 title = "Insecurity in Open Source? - A Rebuttal"
-date = 2004-02-15T00:00:29
+date = 2004-02-15T00:00:29Z
 in_search_index = true
 [taxonomies]
 tags = [

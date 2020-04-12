@@ -1,6 +1,6 @@
 +++
 title = "MetaBase"
-date = 2006-04-03T21:40:04
+date = 2006-04-03T21:40:04Z
 in_search_index = true
 [taxonomies]
 tags = [

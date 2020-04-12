@@ -1,6 +1,6 @@
 +++
 title = "Bricklayer Subversion Repository is up"
-date = 2006-01-30T10:27:57
+date = 2006-01-30T10:27:57Z
 in_search_index = true
 [taxonomies]
 tags = [

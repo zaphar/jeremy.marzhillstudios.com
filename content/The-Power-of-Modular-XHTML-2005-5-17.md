@@ -1,6 +1,6 @@
 +++
 title = "The Power of Modular XHTML"
-date = 2005-05-17T04:00:45
+date = 2005-05-17T04:00:45Z
 in_search_index = true
 [taxonomies]
 tags = [

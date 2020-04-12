@@ -1,6 +1,6 @@
 +++
 title = "Update on work"
-date = 2007-07-10T04:56:19
+date = 2007-07-10T04:56:19Z
 in_search_index = true
 [taxonomies]
 tags = [

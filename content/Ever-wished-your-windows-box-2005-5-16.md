@@ -1,6 +1,6 @@
 +++
 title = "Ever wished your windows box..."
-date = 2005-05-16T01:10:02
+date = 2005-05-16T01:10:02Z
 in_search_index = true
 [taxonomies]
 tags = [

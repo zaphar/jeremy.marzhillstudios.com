@@ -1,6 +1,6 @@
 +++
 title = "Tootin' my own horn"
-date = 2005-12-10T12:12:15
+date = 2005-12-10T12:12:15Z
 in_search_index = true
 [taxonomies]
 tags = [

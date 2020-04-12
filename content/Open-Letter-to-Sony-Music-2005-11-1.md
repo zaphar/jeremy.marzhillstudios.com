@@ -1,6 +1,6 @@
 +++
 title = "Open Letter to Sony Music"
-date = 2005-11-01T22:35:41
+date = 2005-11-01T22:35:41Z
 in_search_index = true
 [taxonomies]
 tags = [

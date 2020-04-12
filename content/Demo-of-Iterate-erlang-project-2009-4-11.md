@@ -1,6 +1,6 @@
 +++
 title = "Demo of Iterate! erlang project number two is up"
-date = 2009-04-11T22:08:25
+date = 2009-04-11T22:08:25Z
 in_search_index = true
 [taxonomies]
 tags = [

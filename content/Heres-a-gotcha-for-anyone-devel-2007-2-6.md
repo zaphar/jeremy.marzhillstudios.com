@@ -1,6 +1,6 @@
 +++
 title = "Here's a gotcha for anyone developing with mod_perl and APR"
-date = 2007-02-06T01:31:29
+date = 2007-02-06T01:31:29Z
 in_search_index = true
 [taxonomies]
 tags = [

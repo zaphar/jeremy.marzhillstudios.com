@@ -1,6 +1,6 @@
 +++
 title = "MPAA's horror show. Critics not amused"
-date = 2006-02-28T10:30:51
+date = 2006-02-28T10:30:51Z
 in_search_index = true
 [taxonomies]
 tags = [

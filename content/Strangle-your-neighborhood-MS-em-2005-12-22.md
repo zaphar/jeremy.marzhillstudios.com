@@ -1,6 +1,6 @@
 +++
 title = "Strangle your neighborhood MS employee"
-date = 2005-12-22T15:05:13
+date = 2005-12-22T15:05:13Z
 in_search_index = true
 
 [taxonomies]

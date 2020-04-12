@@ -1,6 +1,6 @@
 +++
 title = "Internet Daily - BellSouth wants new Net fees"
-date = 2006-01-18T11:33:28
+date = 2006-01-18T11:33:28Z
 in_search_index = true
 [taxonomies]
 tags = [

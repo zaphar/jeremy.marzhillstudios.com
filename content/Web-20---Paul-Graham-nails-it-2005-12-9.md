@@ -1,6 +1,6 @@
 +++
 title = "Web 2.0 - Paul Graham nails it"
-date = 2005-12-09T15:42:08
+date = 2005-12-09T15:42:08Z
 in_search_index = true
 [taxonomies]
 tags = [

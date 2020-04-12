@@ -1,6 +1,6 @@
 +++
 title = "Bricklayer::Templater is getting unit tests"
-date = 2007-07-14T19:16:38
+date = 2007-07-14T19:16:38Z
 in_search_index = true
 [taxonomies]
 tags = [

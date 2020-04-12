@@ -1,6 +1,6 @@
 +++
 title = "I'm trying out a new theme"
-date = 2005-12-08T22:58:34
+date = 2005-12-08T22:58:34Z
 in_search_index = true
 [taxonomies]
 tags = [

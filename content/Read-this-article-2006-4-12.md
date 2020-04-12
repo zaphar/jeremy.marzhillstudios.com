@@ -1,6 +1,6 @@
 +++
 title = "Read this article"
-date = 2006-04-12T18:52:10
+date = 2006-04-12T18:52:10Z
 in_search_index = true
 [taxonomies]
 tags = [

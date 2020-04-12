@@ -1,6 +1,6 @@
 +++
 title = "Creation, Programming, and Easter Eggs"
-date = 2006-03-27T11:23:04
+date = 2006-03-27T11:23:04Z
 in_search_index = true
 [taxonomies]
 tags = [

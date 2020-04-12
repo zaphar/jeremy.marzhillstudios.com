@@ -1,6 +1,6 @@
 +++
 title = "I am now officially on the market as a freelancer."
-date = 2006-12-14T00:36:30
+date = 2006-12-14T00:36:30Z
 in_search_index = true
 [taxonomies]
 tags = [

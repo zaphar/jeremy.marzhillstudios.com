@@ -1,6 +1,6 @@
 +++
 title = "From Homeless to a Career"
-date = 2013-02-22T12:14:00
+date = 2013-02-22T12:14:00Z
 in_search_index = true
 [taxonomies]
 tags = [

@@ -1,6 +1,6 @@
 +++
 title = "Beauty, Artistry, and computer code."
-date = 2006-02-21T10:08:57
+date = 2006-02-21T10:08:57Z
 in_search_index = true
 [taxonomies]
 tags = [

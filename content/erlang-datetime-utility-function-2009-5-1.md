@@ -1,6 +1,6 @@
 +++
 title = "erlang datetime utility functions"
-date = 2009-05-01T01:17:21
+date = 2009-05-01T01:17:21Z
 in_search_index = true
 [taxonomies]
 tags = [

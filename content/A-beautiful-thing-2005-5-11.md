@@ -1,6 +1,6 @@
 +++
 title = "A beautiful thing"
-date = 2005-05-11T00:26:46
+date = 2005-05-11T00:26:46Z
 in_search_index = true
 [taxonomies]
 tags = [

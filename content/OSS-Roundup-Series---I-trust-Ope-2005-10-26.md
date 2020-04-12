@@ -1,6 +1,6 @@
 +++
 title = "OSS Roundup Series - I trust Open Source"
-date = 2005-10-26T00:14:19
+date = 2005-10-26T00:14:19Z
 in_search_index = true
 [taxonomies]
 tags = [

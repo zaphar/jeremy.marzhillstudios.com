@@ -1,6 +1,6 @@
 +++
 title = "SOAP or the lack thereof"
-date = 2006-10-27T14:50:44
+date = 2006-10-27T14:50:44Z
 in_search_index = true
 [taxonomies]
 tags = [

@@ -1,6 +1,6 @@
 +++
 title = "ABA is back"
-date = 2006-05-01T15:15:47
+date = 2006-05-01T15:15:47Z
 in_search_index = true
 [taxonomies]
 tags = [

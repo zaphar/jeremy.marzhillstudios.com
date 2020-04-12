@@ -1,6 +1,6 @@
 +++
 title = "Perl Tip - Chained encodings and binmode magic"
-date = 2006-10-07T14:42:04
+date = 2006-10-07T14:42:04Z
 in_search_index = true
 [taxonomies]
 tags = [ 

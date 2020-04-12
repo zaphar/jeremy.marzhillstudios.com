@@ -1,6 +1,6 @@
 +++
 title = "So google has IM..."
-date = 2005-08-23T21:20:56
+date = 2005-08-23T21:20:56Z
 in_search_index = true
 [taxonomies]
 tags = [

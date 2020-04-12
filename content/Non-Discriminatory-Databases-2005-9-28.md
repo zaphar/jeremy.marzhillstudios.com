@@ -1,6 +1,6 @@
 +++
 title = "Non-Discriminatory Databases"
-date = 2005-09-28T19:56:44
+date = 2005-09-28T19:56:44Z
 in_search_index = true
 [taxonomies]
 tags = [

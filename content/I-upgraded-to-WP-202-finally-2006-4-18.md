@@ -1,6 +1,6 @@
 +++
 title = "I upgraded to WP 2.0.2 finally"
-date = 2006-04-18T15:09:00
+date = 2006-04-18T15:09:00Z
 in_search_index = true
 [taxonomies]
 tags = [

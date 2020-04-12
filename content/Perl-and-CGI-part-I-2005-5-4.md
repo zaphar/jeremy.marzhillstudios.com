@@ -1,6 +1,6 @@
 +++
 title = "Perl and CGI part I"
-date = 2005-05-04T00:47:13
+date = 2005-05-04T00:47:13Z
 in_search_index = true
 [taxonomies]
 tags = [

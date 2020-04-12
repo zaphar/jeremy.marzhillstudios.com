@@ -1,6 +1,6 @@
 +++
 title = "I changed my permalink structure"
-date = 2006-01-19T17:49:54
+date = 2006-01-19T17:49:54Z
 in_search_index = true
 [taxonomies]
 tags = [

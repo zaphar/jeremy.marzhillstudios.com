@@ -1,6 +1,6 @@
 +++
 title = "go-html-transform an html transformation and scraping library"
-date = 2013-02-26T17:05:00
+date = 2013-02-26T17:05:00Z
 in_search_index = true
 [taxonomies]
 tags = [

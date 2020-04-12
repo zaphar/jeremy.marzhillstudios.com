@@ -1,6 +1,6 @@
 +++
 title = "On the fly Perl Classes with Type restricted attributes"
-date = 2007-01-25T19:34:17
+date = 2007-01-25T19:34:17Z
 in_search_index = true
 [taxonomies]
 tags = [

@@ -1,6 +1,6 @@
 +++
 title = "Top X Design/Coding Principles"
-date = 2009-08-29T00:16:37
+date = 2009-08-29T00:16:37Z
 in_search_index = true
 [taxonomies]
 tags = [

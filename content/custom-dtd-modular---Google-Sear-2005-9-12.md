@@ -1,6 +1,6 @@
 +++
 title = "custom dtd modular - Google Search"
-date = 2005-09-12T21:12:24
+date = 2005-09-12T21:12:24Z
 in_search_index = true
 [taxonomies]
 tags = [

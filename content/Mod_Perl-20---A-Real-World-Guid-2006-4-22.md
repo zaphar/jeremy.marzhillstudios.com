@@ -1,6 +1,6 @@
 +++
 title = "Mod_Perl 2.0 - A Real World Guide - part I"
-date = 2006-04-22T20:32:48
+date = 2006-04-22T20:32:48Z
 in_search_index = true
 [taxonomies]
 tags = [
