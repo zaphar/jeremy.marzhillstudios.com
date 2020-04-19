@@ -95,8 +95,8 @@ to listen and see how it was recieved.
 
 # Team Culture
 
-By default culture flows from the top down most of the time. And for a team you
-are managing you are the source of that flow. You have an outsize impact on
+By default culture flows from the top down most of the time. And for any team
+you are manage, you are the source of that flow. You have an outsize impact on
 your teams culture. If you are negative then your team will tend to take on a
 negative attitude. If you are positive then your team will tend to take on a
 positive attitude. I've been thinking a lot lately about what you can do to
@@ -104,27 +104,28 @@ create a good team culture.
 
 ## Identity
 
-What is your teams engineering identity. Are you a quality at all costs team or
-are a ship it and fix it if it breaks in prod kind of team. Do you value unit
-testing or do you get more value from Manual QA? Is CI/CD in your DNA or are
-weekly deployments better for your team? What about developer tooling? Is it
-everyone for themselves? Is tooling first class part of your teams identity. Do
-you tend toward build or buy?
+Identity forms an outsize part of your teams culture. What do you need your
+teams engineering identity to be? Should you be a quality at all costs team or
+are a ship it and fix it if it breaks in prod kind of team? Should you value
+unit testing or do you get more value from Manual QA? Is CI/CD in your DNA or
+are weekly planned deployments better? What about developer tooling? Is it
+everyone for themselves or is tooling a first class part of your teams
+identity. In your technology choices do you tend toward build or buy?
 
 > Your goal is to be in a position where you don't need to micro-manage your team
 
-You should be clear about your teams identity. This will give guide rails for
-your developers and team members. They will know what mental framework they
-should use when making decisions. This will free you from having to be involved
-in the minutia. Your goal is to be in a position where you don't need to
-micro-manage your team.
+To be effective you need to be clear about your teams identity. This will give
+guide rails for your developers and team members. They will know what mental
+framework they should use when making decisions. It frees you from having to be
+involved in the minutia. Your goal is to be in a position where you don't need
+to micro-manage your team.
 
 ## Narrative
 
-Your goal should be to craft a narrative that is positive, believable,
-consistent, and evolving.
+As a manager you need to provide narrative to your team that is positive,
+believable, consistent, and evolving.
 
-Your narrative should be positive.You don't want a narrartive that is framed as
+The narrative should be positive. You don't want a narrartive that is framed as
 us vs them. Something I've seen before in engineering organizations. You want
 it to focus on how the team can be productive and make the business successful.
 
