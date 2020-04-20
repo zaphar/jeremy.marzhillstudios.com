@@ -23,7 +23,7 @@ opportunity. So here I am with a role that is 80% managment and 20% technical
 contribution. In theory I think it was intended to be 50/50 but reality differs
 quite a bit.
 
-> Engineering Management is **hard**
+## Engineering Management is **hard**
 
 I don't think I realized just how hard managing people is until I experienced
 it for myself. Some of the problems are fundamentally unsolvable. The most you
@@ -34,8 +34,7 @@ like to talk about what I've learned.
 
 # Communication
 
-> You are a conduit between the needs of the business and the capabilities
-> of the engineering team
+## You are a conduit between the business and the engineering team
 
 In many ways being an engineering manager is about being a translator. You are
 a conduit between the needs of the business and the capabilities of the
@@ -54,8 +53,7 @@ honest about what you are empowered to accomplish. Be realistic about the
 capabilities of the team to the business. Don't oversell and don't undersell.
 If you lose the trust of either side you'll be ineffective in your role.
 
-> People appreciate it when you are honest about your failings
-> and diligent in addressing them
+### People appreciate it when you are honest about your failings
 
 Come clean when you mess up. You aren't any more perfect than the next guy.
 Sometimes you'll drop something on the floor. When it happens acknowledge your
@@ -79,7 +77,7 @@ factual content of your communication and not the method of delivery. This can
 be harder than it sounds. Trying to eliminate any emotion from your delivery
 can be just as bad as including negative emotion.
 
-> I have found that focusing on empathy is helpful
+### I have found that focusing on empathy is helpful
 
 Try to understand how your audience is going to percieve the news you need to
 deliver. It goes a long way when it's clear that you understand the impact what
@@ -108,7 +106,7 @@ are weekly planned deployments better? What about developer tooling? Is it
 everyone for themselves or is tooling a first class part of your teams
 identity. In your technology choices do you tend toward build or buy?
 
-> Your goal is to be in a position where you don't need to micro-manage your team
+### Your goal is to be in a position where you don't need to micro-manage
 
 To be effective you need to be clear about your teams identity. This will give
 guide rails for your developers and team members. They will know what mental
@@ -125,7 +123,7 @@ You don't want a narrartive that is framed as us vs them, something I've seen
 before in engineering organizations. You want it to focus on how the team can 
 be productive and make the business successful.
 
-> If you aren't honest in your narrative then the cracks will start to show
+### If you aren't honest in your narrative then the cracks will start to show
 
 A good narrative is believable, one that everyone can buy into. Telling a story
 about where the company is going and how the team will be able to contribute to
@@ -134,8 +132,7 @@ accurate and not a fabrication. If you aren't honest then the cracks will start
 to show and people will share their own narratives. Narratives that, in many
 cases, lead to bad places for the team.
 
-> If parts of your narrative are in conflict with itself then the
-> team won't know how to self direct
+### If your narrative is in conflict with itself then the team can't self direct
 
 An inconsistent narrative will kill productivity. If parts of your narrative
 are in conflict then the team won't know how to be self directed. They'll be
@@ -143,7 +140,7 @@ backtracking all the time and it will appear to them that the ground is
 shifting under their feet. If you craft a good narrative then the team will
 have a shared story. They will know where they fit.
 
-> Acknowledge change and the need to adapt to it
+### Acknowledge change and the need to adapt to it
 
 Narratives need to change and evolve. When this happens, be transparent about
 it. Acknowledge that the environment is changing and the team needs to adapt to it.
@@ -151,9 +148,6 @@ Acknowledge when something isn't working for whatever reason and get consensus
 on how to change it. Don't try to shoehorn the changes into the old narrative.
 
 # Potential Impact
-
-> You can be the difference between a good work environment
-> for employees and a bad one
 
 If the above challenges appeal to you then you might be interested in some
 managerial roles. The impact you can have on a team and a company make it worth
