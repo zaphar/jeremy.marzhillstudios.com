@@ -15,7 +15,7 @@ tags = [
 Introduction
 ============
 
-For work I've been getting up to speed on the W3C's set of webcomponents standards. Which means I've been looking at [Polymer](http://polymer-project.org). Polymer is both an experimental javascript framework and a shim library that simulates the portions of the W3C standard which are not yet implemented in browsers. Specifically I've been looking at [Custom Elements](http://www.w3.org/TR/components-intro/#custom-element-section) and [Templates](http://www.w3.org/TR/components-intro/#template-section) since they are the more concrete portions of the standard right now.
+For work I've been getting up to speed on the W3C's set of webcomponents standards. Which means I've been looking at [Polymer](http://polymer-project.org). Polymer is both an experimental javascript framework and a shim library that simulates the portions of the W3C standard which are not yet implemented in browsers. Specifically I've been looking at [Custom Elements](https://html.spec.whatwg.org/multipage/custom-elements.html) and [Templates](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element) since they are the more concrete portions of the standard right now.
 
 At some point when you are exploring a new technology the docs and tutorials stop being useful to you and to really get a feel you have to build something in it. I decided to port parts of a javascript application, [DynamicBible](http://dynamicbible.com), that I had already written as a learning exercise. [DynamicBible](http://dynamicbible.com) currently uses [requirejs](http://requirejs.org) for it's javascript code as a way to manage dependencies and keep scoping sane. This made it perfect for my purposes since it allowed me to explore two types of polymer elements.
 
@@ -140,7 +140,7 @@ Polymer('search-box', {
 </polymer-element>
 ```
 
-There are a number of things going on in this template element. First we define some html that will be used whenever we render the element on a page.  There is some complicated merging logic involving the [shadow dom](http://www.w3.org/TR/components-intro/#shadow-dom-section) but we'll ignore that for now.  Second our value attribute on the the input element has funny looking content.  The `{{ query }}` tells polymer that the contents of the text box and the query a should be kept in sync. A change to one of them is reflected in the other. Furthermore a change to the input box will result in the queryChanged event firing and causing a search to get submitted. There are several more built in events and Polymer includes a way to create and listen to your own events. as well.
+There are a number of things going on in this template element. First we define some html that will be used whenever we render the element on a page.  There is some complicated merging logic involving the [shadow dom](https://dom.spec.whatwg.org/#shadowroot) but we'll ignore that for now.  Second our value attribute on the the input element has funny looking content.  The `{{ query }}` tells polymer that the contents of the text box and the query a should be kept in sync. A change to one of them is reflected in the other. Furthermore a change to the input box will result in the queryChanged event firing and causing a search to get submitted. There are several more built in events and Polymer includes a way to create and listen to your own events. as well.
 
 I'll cover a utility element that shims requirejs modules to make them useable in your polymer elements in a later article.
 
