@@ -1,7 +1,6 @@
 +++
 title = "Remote Managing Software Engineers"
-date = 2020-05-13
-draft = true
+date = 2020-05-19
 [taxonomies]
 tags = [
     "teams",
@@ -40,10 +39,10 @@ when you are local.
 
 # Principles of Remote Management
 
-Remote management requires giving your team a clear mental framework for
-decision making and autonomy. You can't be as available for the quick
-clarification or immediate permission seeking. You need your team to have the
-tools required for autonomy in their decision making. In my [previous
+Remote management works best when you have given your team a clear mental
+framework for decision making and autonomy. You can't be as available for that
+quick clarification or to obtain immediate permission. You need your team to
+have the tools required for autonomy in their decision making. In my [previous
 article](@/engineering-managment-is-hard.md) article I mention how important
 narrative and identity are in engineering management. When managing remotely,
 It's crucial. They can't just stop by your desk to ask a question. You won't
@@ -106,7 +105,7 @@ you can't deliver and be frank about it when you mess up. Honesty is key to
 success. When the team learns they can trust your word they will get more
 comfortable.
 
-This forms a feedback loop into their autonomous decision making. When they
+This forms a feedback loop with their autonomous decision making. When they
 feel like they can trust the foundation they'll walk more confidently and make
 better more consistent decisions. That in turn will cause you to trust them
 more as well. Clear consitent communication leads to consistent decision making
