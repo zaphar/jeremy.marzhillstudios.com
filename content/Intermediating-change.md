@@ -20,7 +20,7 @@ tags = [
 A significant portion of my job these days is to act as an intermediator. I
 stand between upper management and the teams that report to me. I mediate the
 interaction between them. My role is one of translator, shield, and
-understander in chief. I am the primary way that my direct reports understand
+understand-er in chief. I am the primary way that my direct reports understand
 the goals, needs, and requirements of the company they work for. I'm also the
 way that the company understands the mood, needs, and capabilities of the
 people they have employed. This is, to say the least, the most exhausting and yet
@@ -30,11 +30,12 @@ If you work somewhere for long enough eventually you'll see a negative
 narrative start to form. A policy change will strike people the wrong way. A
 technology choice will be made that others disagree with. The triggering event
 could be anything. But the effect will be somewhat predictable. Confusion,
-feelings of neglect, anger, resignation, all might start manifesting in your
-team. If you let them stay there then they'll fester and before long you'll
-have a revolt on your hands. As a manager you can be reactive to these events
-and find yourself playing catch up continually or you can be proactive and
-manage the impact that these decisions will have on your team.
+feeling they are ignored, anger, resentment, all might start manifesting in
+your team. If you let those feelings stay there then they'll fester and before
+long you'll have a team of negative attitudes on your hands. As a manager you
+can be reactive to these events and find yourself playing catch up continually
+or you can be proactive and manage the impact that these decisions will have on
+your team.
 
 ## Planned Change
 
@@ -52,7 +53,7 @@ with clear reasons behind them.
 My next task is to understand the impact this will have on my team. What
 questions are they likely to have? Will there be undesirable impacts that
 management may be unaware of? If you can anticipate those questions or
-potential setbacks you will go a long way to easing everyones minds. It's
+potential setbacks you will go a long way to easing everyone's minds. It's
 crucial that management knows you understand the impacts these changes will
 have on the team and can communicate them back to them. It's also crucial that
 your team knows you are already proactively managing that impact on them. If
@@ -70,23 +71,23 @@ Just because I've done my homework first and tried to anticipate all the
 impacts doesn't mean there isn't something I missed or was unaware of. If I
 learn anything new from the team then I commit to communicate it to leadership.
 Both the team and the company leadership needs to know that I am an effective
-translator and they can trust me to accurately represent them to each other.
+translator, and they can trust me to accurately represent them to each other.
 
 ## Sudden change
 
 Sometimes change comes suddenly. Sometimes the environment for the company
 changes so fast no one sees it coming until it's right on top of them.
-Sometimes communication lines break down in a place outside of my control.
-Sometimes I just drop the ball. When that happens first I have to accept it and
+Maybe communication lines break down in a place outside my control.
+Perhaps I just drop the ball. When that happens first I have to accept it and
 then I need to follow the same playbook but on an accelerated timeline. I might
 have to tell the team that I'm working to understand the change same as them
 and then commit to follow up with them when I learn more. If I've done my job
 before this then I'll have earned enough trust for myself and the company that
-they'll wait for that feedback and withold judgement. The company will be able
-to trust me to manage the teams response to unexpected change as well which
+they'll wait for that feedback and withhold judgement. The company will be able
+to trust me to manage the team's response to unexpected change as well which
 reduces stress for everyone involved.
 
-## Change is necessary
+# Change is necessary
 
 Change is a necessary part of growth at a company. It doesn't have to be
 negative but if the change isn't properly managed and communicated then by
