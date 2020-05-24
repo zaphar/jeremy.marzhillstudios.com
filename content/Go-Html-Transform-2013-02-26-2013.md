@@ -29,7 +29,7 @@ go-html-transform is an example of that last one. The basic theory is that an ht
 Example usage.
 =======
 
-``` go
+```go
 package main
 
 import (

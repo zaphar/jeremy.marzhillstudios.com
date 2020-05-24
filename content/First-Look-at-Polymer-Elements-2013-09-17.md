@@ -27,7 +27,7 @@ For my purposes I ported the DynamicBible search box and a requirejs importer el
 Creating your own Polymer Element
 =================================
 
-``` html
+```html
 <polymer-element name="my-element">
 <template>
 ...
@@ -40,7 +40,7 @@ Creating your own Polymer Element
 
 The `<polymer-element>` is the declarative way to define your polymer element in html itself. The bare minimum to define a polymer element would be
 
-``` html
+```html
 <polymer-element name="search-box">
 <script>
 Polymer('search-box');
@@ -50,13 +50,13 @@ Polymer('search-box');
 
 This is as about as useful as the span element though and html already has a span element. We need a little more than this to be worth it. Our element needs some attributes and behavior. Polymer lets us describe the expected attributes using an attribute called, what else, `attributes`.
 
-``` html
+```html
 <polymer-element name="search-box" attributes="id query">
 ```
 
 As for the behavior to attach to this element, that brings us the the Polymer construction function.
 
-``` html
+```html
 <polymer-element name="search-box" attributes="id query">
 <script>
 // Polymers construction function.
@@ -75,20 +75,20 @@ Polymer('search-box', {
 
 You can use the element the same way you would any other html element.
 
-``` html
+```html
 <search-box id="searchBox"></search-box>
 ```
 
 Now our element has a method on it that will submit a search using the value of our search-box query attribute. We could trigger this behavior right now with javascript.
 
-``` js
+```js
 document.querySelector('#searchBox').query = "what is a polymer element?";
 document.querySelector('#searchBox').search();
 ```
 
 It's kind of silly that we have to do that manually with javascript though. What we really want is for this element to detect changes in our query and perform the search for us.
 
-``` html
+```html
 <polymer-element name="search-box" attributes="id query">
 <script>
 Polymer('search-box', {
@@ -117,7 +117,7 @@ Up to now our element hasn't been very visible. We need to give it an image boos
 
 We'll go with the template element for now. The element inheritance will come in handy later.
 
-``` html
+```html
 <polymer-element name="search-box" attributes="id query">
 <template>
   <input type="text" value="{{ query }}">
@@ -148,7 +148,7 @@ Out elements template element isn't terribly complicated and it turns out in our
 
 Our last tweak to the search-box element looks like this.
 
-``` html
+```html
 // input already defines the attributes we need
 <polymer-element name="search-box" extends="input">
 <script>
