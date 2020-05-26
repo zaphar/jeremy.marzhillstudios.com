@@ -3,6 +3,7 @@
         <h1 class="post__title">
             <a href="{{ page.permalink }}">{{ page.title }}</a>
         </h1>
+        <div class="post__stats">{{ page.word_count }} words | {{ page.reading_time }} minutes</div>
         <div class="post__meta">
             <span class="post__time">{{ page.date | date(format="%F") }}</span>
             {% if page.category %}
