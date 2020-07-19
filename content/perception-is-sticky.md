@@ -5,7 +5,6 @@ draft = true
 [taxonomies]
 tags = [
     "perception",
-    "management",
     "leadership",
 ]
 +++
@@ -88,16 +87,18 @@ appropriately to its environment.
 
 ## They acknowledge the historical context
 
-You can't shift perception without first acknowledging why the current one formed.
-The first step to correcting bad perception is to acknowledge that it exists for
-a reason. If the perception is lingering after a previous bad reality then before
-you can show that the reality has changed you have to acknowledge the bad reality
-that came before. If the perception is caused by poor communication of reality
-then acknowledging that failure is the first step to correcting it.
+You can't shift perception without first acknowledging why the current one
+formed. The first step to correcting bad perception is to acknowledge that it
+exists for a reason. If the perception is lingering after a previous bad
+reality then before you can show that the reality has changed you have to
+acknowledge the bad reality that came before. If the perception is caused by
+poor communication of reality then acknowledging that failure is the first step
+to correcting it.
 
-Shifting someone's perception is much harder if you try to pretend the perception
-doesn't exist. You have to confront the perception and acknowledge the causes to
-generate enough of a shock to begin moving them in another direction.
+Shifting someone's perception is much harder if you try to pretend the
+perception doesn't exist. You have to confront the perception and acknowledge
+the causes to generate enough of a shock to begin moving them in another
+direction.
 
 ## They highlight additional context
 
@@ -112,8 +113,8 @@ consistent and honest, eventually perception will be more in line with reality.
 
 Great leaders also recognize they also have perceptions that can be just as
 sticky as the people they lead. If the problem is that your perception is out
-of line with reality then you won't be able to work to keep others perception
-in line with reality We have just as much of a tendency toward confirmation
-bias and we need to work just as hard to counteract it. Sometimes, when the
+of line with reality, then you won't be able to work to keep others perception
+in line with reality. We have just as much of a tendency toward confirmation
+bias, and we need to work just as hard to counteract it. Sometimes, when the
 perceptions of those you lead differ from yours it's because you are the one
 who needs an adjustment.
