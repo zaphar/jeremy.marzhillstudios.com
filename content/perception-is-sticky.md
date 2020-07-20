@@ -31,7 +31,7 @@ bias](https://en.wikipedia.org/wiki/Confirmation_bias). Once we have a
 particular perception we tend to notice facts and events that support that
 perception and discount the ones that don't. As a result, when a negative
 perception forms in someone it can be particularly challenging to dislodge it.
-Every misstep, every supporting event or action that supports the perception is
+Every misstep, every event or action that supports the perception is
 magnified and held up as an indication that nothing has really changed. While
 every attempt to address the problems and improve is forgotten or thought to be
 of little importance.
@@ -44,7 +44,7 @@ culture and will poison the intuitions of your employees until it is changed.
 ## Perception is communicable
 
 When we encounter a new situation, such as a new job, we look to those around
-us to help develop our intuitions about what to expect. We don't have
+us to help develop our intuitions about what to expect. We don't have the
 experience to inform our intuitions yet, so we rely on the experience of
 others. If the prevalent perception of everyone is negative then we'll
 gravitate toward a negative perception as well.
@@ -54,7 +54,7 @@ to push us even further in that direction. It takes a lot of effort to go
 against that cultural drift once it starts. Both the sticky and communicable
 natures of perception serve to make it one of the things that can make or break
 a culture. Unfortunately, there is only about a 50/50 chance that you'll be
-starting with positive perception from the beginning. Generally, you'll be
+starting with positive perception from the beginning. Chances are you'll be
 starting out with a handicap.
 
 ## Perception is rarely a reflection of reality
@@ -65,12 +65,13 @@ possession of a full understanding of everything we experience. Our perception
 is colored as a result. Both negative and positive perceptions tend to be somewhat
 misinformed. A negative perception will usually blow things out of proportion.
 It will paint things in an overly negative light and discount the positive
-aspects of a situation.
+aspects of a situation. A positive perception will downplay certain events
+and rationalize others.
 
-Perception can create worry where it's not warranted. It can create unrealistic
-hope. It colors our reality in ways that can prevent rational and realistic
-expectations. The more out of line with reality a perception is the more
-incorrect the reactions to events will be.
+Perception can create worry where it's not warranted or it can create
+unrealistic hope. It colors our reality in ways that can prevent rational and
+realistic expectations. The more out of line with reality a perception is the
+more incorrect the reactions to events will be.
 
 # Great leaders shift perceptions
 
@@ -108,10 +109,10 @@ honest, eventually perception will be more in line with reality.
 
 ## Recognizing their own perception
 
-Great leaders also recognize they also have perceptions that can be just as
-sticky as the people they lead. If the problem is that your perception is out
-of line with reality, then you won't be able to work to keep others perception
-in line with reality. We have just as much of a tendency toward confirmation
-bias, and we need to work just as hard to counteract it. Sometimes, when the
-perceptions of those you lead differ from yours it's because you are the one
-who needs an adjustment.
+Great leaders recognize they also have perceptions that can be just as sticky
+as the people they lead. If the problem is that your perception is out of line
+with reality, then you won't be able to work to keep others perception in line
+with reality. We have just as much of a tendency toward confirmation bias, and
+we need to work just as hard to counteract it. Sometimes, when the perceptions
+of those you lead differ from yours it's because you are the one who needs an
+adjustment.
