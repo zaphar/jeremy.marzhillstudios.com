@@ -1,11 +1,17 @@
 content := $(wildcard content/*.md themes/even/sass/*.scss themes/even/static/* themes/even/templates/*.html themes/even/templates/categories/*.html  themes/even/templates/shortcodes/*.html themes/even/templates/tags/*.html)
-build: content/.built
+build: content/.built static/pdf/resume-jeremy-wall.pdf
 
 all: build deploy
 
 content/.built: $(content)
-	zola build -o public/
+	nix-shell -p zola --command "zola build -o public/"
 	touch content/.built
+
+static/pdf/resume-jeremy-wall.pdf: resume/resume.sil resume/resume.lua
+	mkdir -p static/pdf/
+	mkdir -p ~/.local/share/fonts
+	cp resume/.fonts/* ~/.local/share/fonts/
+	nix-shell -p sile --command "sile -o $@ resume/resume.sil"
 
 publish: build
 	cd public
