@@ -53,15 +53,6 @@ SILE.settings.set("document.parindent", SILE.nodefactory.glue())
 local simpletable = SILE.require("packages/simpletable")
 simpletable.init(SILE.documentState.documentClass, {tableTag = "table", trTag = "tr", tdTag = "td"})
 
-resume:declareFrame("content", {
-    left = "20%pw",
-    right = "80%pw",
-    top = "10%ph",
-    bottom = "10%ph",
-})
-
-resume.pageTemplate.firstContentFrame = resume.pageTemplate.frames["content"]
-
 SILE.registerCommand("resume", function(opts, content)
     local author = SILE.settings.get("resume.author")
     if author == "" then
