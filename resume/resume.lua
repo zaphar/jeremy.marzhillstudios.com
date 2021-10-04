@@ -12,6 +12,7 @@
 -- See the License for the specific language governing permissions and
 -- limitations under the License.
 
+local base = SILE.baseClass
 local plain = SILE.require("plain", "classes")
 local resume = plain { id = resume }
 
@@ -52,6 +53,22 @@ SILE.settings.set("document.parindent", SILE.nodefactory.glue())
 
 local simpletable = SILE.require("packages/simpletable")
 simpletable.init(SILE.documentState.documentClass, {tableTag = "table", trTag = "tr", tdTag = "td"})
+
+resume.defaultFrameset = {
+  content = {
+    left = "10%pw",
+    right = "90%pw",
+    top = "5%ph",
+    bottom = "92%ph"
+  }
+}
+
+resume.endPage = function(self)
+    -- We skip calling plains endPage but we still need
+    -- to call the base classes endPage callback.
+    base.endPage(self)
+end
+
 
 SILE.registerCommand("resume", function(opts, content)
     local author = SILE.settings.get("resume.author")
