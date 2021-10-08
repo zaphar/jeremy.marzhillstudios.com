@@ -1,4 +1,5 @@
 \begin[papersize=letter, class=resume]{document}
+\font[family="CMU Sans Serif", size=11pt]
 
 \set[parameter=resume.author, value="Jeremy Wall"]
 \set[parameter=resume.site, value="jeremy.marzhillstudios.com"]
