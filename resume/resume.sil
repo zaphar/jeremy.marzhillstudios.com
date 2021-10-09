@@ -10,22 +10,18 @@
 
 \subsection{About Me}
 
-\para{
-I am a self taught coder with a love for languages and good
-design. I've been working in the industry for a little more than 10
-years. I've been learning and coding in the open source community for
-far longer than that though. From hacking personal customizations in
-\href[src=http://blender.org]{Blender}, to coding my own website, to
-writing about various languages and technologies on that site. I've
-been an active part of the programming community for more than 20
-years.
-}
+\begin{para} I am a self-taught coder with a love for languages and good
+design. I've been working in the industry for going on 15 years. I've been
+learning and coding in the open source community for far longer than that. From
+hacking personal customizations in \href[src=http://blender.org]{Blender}, to
+coding my own website, to writing about various languages and technologies on
+that site. I've been an active part of the programming community for more than
+20 years. \end{para}
 
-\para{
-I'm passionate about the tools used in the craft of software
-development. Build systems, Test frameworks, Editors/IDE's all
-fascinate me and I'm constantly looking for new ways to streamline and
-improve the process of software construction. }
+\begin{para} I'm passionate about the tools used in the craft of software
+development. Build systems, Test frameworks, Editors/IDE's all fascinate me,
+and I'm constantly looking for new ways to streamline and improve the process
+of software construction. \end{para}
 
 \subsection{Notable Personal Projects}
 
@@ -43,13 +39,13 @@ improve the process of software construction. }
 \bullet{Original author of C# support for
 \site[src=bazel.io/] at \site[src=github.com/bazelbuild/rules_dotnet]}
 
-\bullet{One of the only people to provide a pull example for the 
+\bullet{One of the few people to provide a pull example for the 
   libgit2 rust bindings at
   \href[src=https://github.com/rust-lang/git2-rs/blob/master/examples/pull.rs]{pull.rs on github}}
 
 \medskip
-\para{You can see the rest of my personal coding projects on
-\site[src=github.com/zaphar]}.
+\begin{para} You can see the rest of my personal coding projects on
+\site[src=github.com/zaphar]. \end{para}
 
 \bigskip
 \fullrule
@@ -59,18 +55,17 @@ improve the process of software construction. }
 
 \subsection{GoHealth, Inc - VP of Engineering 2021 - Present}
 
-  \para{I was promoted to VP of Engineering during my 5th year and helped to drive
-  processes for technology adoption, security and compliance. My areas of oversight
-  were our new Customer Retention stack, Shared Services, Tech Support,
-  and Data Engineering.}
+  \begin{para} I was promoted to VP of Engineering during my 5th year and
+  helped to drive processes for technology adoption, security, and compliance.
+  My areas of oversight were our new Customer Retention stack, Shared Services,
+  Tech Support, and Data Engineering. \end{para}
 
 \subsection{GoHealth, Inc - Principal Engineer 2016 - 2021}
 
-% Figure out how to indent this entire paragraph
-  
-  \para{I joined GoHealth to help them as they moved toward a more agile model
-  in the SDLC. They were beginning to embrace Continuous Integration and
-  Continuous Delivery. My responsibilites as Principal Engineer were to:}
+  \begin{para} I joined GoHealth to help them as they moved toward a more agile
+  model in the SDLC. They were beginning to embrace Continuous Integration and
+  Continuous Delivery. My responsibilities as Principal Engineer were to:
+  \end{para}
 
   - Mentor other developers
 
@@ -81,18 +76,18 @@ improve the process of software construction. }
   - Help to foster a strong engineering culture.
   \bigskip
 
-  \para{Shortly after joining GoHealth I also took on the management of a newly
-  forming SRE team. Helping to bootstrap that team and give guidance on best
-  practices for managing new and old deployments of applications in the GoHealth
-  platform. I was also given oversight of the data engineering group around 4 years into my
-  tenure as a Principal there.}
+  \begin{para} Shortly after joining GoHealth, I also took on the management of
+  a newly forming SRE team. Helping to bootstrap that team and give guidance on
+  best practices for managing new and old deployments of applications in the
+  GoHealth platform. I was also given oversight of the data engineering group
+  around 4 years into my tenure as a Principal there. \end{para}
 
 \subsection{VAE, Inc. - Senior Architect 2014 - 2016}
 
-  \para{The software stack we used at VAE was C# running on both Mono and
-  .Net runtimes. It is a suite of network engineering tools used by
-  Network Engineers and Network Operations to manage and view the
-  current state of their network. While there I helped to:}
+  \begin{para} The software stack we used at VAE was C# running on both Mono
+  and .Net runtimes. It is a suite of network engineering tools used by Network
+  Engineers and Network Operations to manage and view the current state of
+  their network. While there, I helped to: \end{para}
 
     - Develop software engineering processes.
 
@@ -105,63 +100,65 @@ improve the process of software construction. }
 
 \subsection{Google - Software engineer 2008 - 2014}
 
-  \para{I was part of the DoubleClick acquisition by Google and continued working on
-  the Google Affiliate Network product for the first two years. Wrote most of
-  the code to migrate our data to Google infrastructure and datastores.
-  Launched the first integrations with Google systems.}
+  \begin{para} I was part of the DoubleClick acquisition by Google and
+  continued working on the Google Affiliate Network product for the first two
+  years. I wrote most of the code to migrate our data to Google infrastructure
+  and datastores as well as launched the first integrations with Google systems.
+  \end{para}
 
-  \para{I then worked on the Project Hosting product on https://code.google.com/p/.
-  This product has since been discontinued by Google.}
+  \begin{para} I then worked on the Project Hosting product on https://code.google.com/p/.
+  This product has since been discontinued by Google. \end{para}
 
-  \para{After Project hosting I moved into the Web Server team for the
+  \begin{para} After Project Hosting I moved into the Web Server team for the
   Search Page. I worked on tooling for the templating language and
-  CSS/Javascript/HTML management. While there I worked on integrating
-  a CSS compiler for the Templating engine. This support greatly
-  improved the experience of styling search features and controlling
-  the impact of CSS on a page.}
+  CSS/Javascript/HTML management. While there I worked on integrating a CSS
+  compiler for the templating engine. This support greatly improved the
+  experience of styling search features and controlling the impact of CSS on a
+  page. \end{para}
 
-  \para{I also worked on evaluating the HTML5 Web Compoenents standards to
-  see how they might improve the search page. This required reading
-  the W3C standards, prototyping templating engine support for them,
-  and running some experiments on the front page.}
+  \begin{para} I also worked on evaluating the HTML5 Web Components standard
+  collection to see how they might improve the search page. This required
+  reading the W3C and WHATWG standards, prototyping templating engine support
+  for them, and running some experiments on the front page. \end{para}
 
-  \para{Pretty much all the technology at Google is custom but relies
+  \begin{para} Pretty much all the technology at Google is custom but relies
   heavily on non-relational distributed datastores, and highly
-  scalable distributed architectures.}
+  scalable distributed architectures. \end{para}
 
 \subsection{Doubleclick/Performics Software Engineer 2007 -}
 
-  \para{Worked on the affiliate ad product for Doubleclick/Performics in several
-  different initiatives. The web stack was Linux, Apache, ModPerl and used
-  DB2/Oracle/MySQL for the database. While there I helped to:}
+  \begin{para} Worked on the affiliate ad product for Doubleclick/Performics in
+  several initiatives. The web stack was Linux, Apache, ModPerl and used
+  DB2/Oracle/MySQL for the database. While there, I helped to: \end{para}
   
   - Champion and prioritize tasks for a migration from an IBM
     DB2 database to an Oracle Database
 
-  - Code and setup a unit test infrastructure for javascript development.
+  - Created and set up a unit test infrastructure for javascript development.
 
   - Design and write a UI framework to improve development speed
     and maintainability of frontends to the reporting API.
 
 \subsection{Healthcom - SubContractor 2007}
 
-  \para{Worked on a health device information tracking service. The system recieved
+  \begin{para} Worked on a health device information tracking service. The system received
   health information from various remote devices in patients homes. It tracked
   the data and events and graphed them for the healthcare providers. It also
-  alerted based off of certain criteria for the data.}
+  alerted based off of certain criteria for the data. \end{para}
 
-  \para{The system was written in Perl and consumed web services, ftp uploads,
+  \begin{para} The system was written in Perl and consumed web services, ftp uploads,
   and encrypted network connections to gather the data. The data was stored in
-  Postgresql. The web stack was Apache and Perl on Windows.}
+  Postgres. The web stack was Apache and Perl on Windows. \end{para}
 
 \fullrule
 \bigskip \goodbreak
 
 \section{Technologies}
 
-\para{This is an incomplete list of the technologies I've had experience with just touching
-the high points. I'm a generalist who goes deep in a few areas and with an emphasis on
-maintainability and longevity of the systems or code I'm involved with.}
+\begin{para} This is an incomplete list of the technologies I've had experience
+with, just touching the high points. I'm a generalist who goes deep in a few
+areas and with an emphasis on maintainability and longevity of the systems or
+code I'm involved with. \end{para}
 
 \subsection{Non Relational Datastores}
 
@@ -185,9 +182,9 @@ maintainability and longevity of the systems or code I'm involved with.}
 
 \subsection{Languages}
 
-\para{I know a fairly wide variety of languages not all of which I could use
-in production settings. Learning and even creating languages is something
-of a hobby for me. A partial list is here.}
+\begin{para} I know a fairly wide variety of languages, not all of which I
+could use in production settings. Learning and even creating languages is
+something of a hobby for me. A partial list is here. \end{para}
 
 \bullet{Rust}
 

@@ -3,7 +3,7 @@ build: content/.built static/pdf/resume-jeremy-wall.pdf
 
 all: build deploy
 
-content/.built: $(content)
+content/.built: $(content) static/pdf/resume-jeremy-wall.pdf
 	nix-shell -p zola --command "zola build -o public/"
 	touch content/.built
 
@@ -15,7 +15,7 @@ static/pdf/resume-jeremy-wall.pdf: resume/resume.sil resume/resume.lua
 	cp resume/.fonts/* ~/.local/share/fonts/
 	nix-shell -p sile --command "sile --debug classes -o $@ resume/resume.sil"
 
-publish: build static/pdf/resume-jeremy-wall.pdf
+publish: build
 	cd public
 	gsutil -m rsync -d -r public gs://jeremy.marzhillstudios.com/
 
