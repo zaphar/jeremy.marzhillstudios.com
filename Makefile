@@ -13,7 +13,7 @@ static/pdf/resume-jeremy-wall.pdf: resume/resume.sil resume/resume.lua
 	mkdir -p static/pdf/
 	mkdir -p ~/.local/share/fonts
 	cp resume/.fonts/* ~/.local/share/fonts/
-	nix-shell -p sile --command "sile --debug classes -o $@ resume/resume.sil"
+	bash bin/sile --debug classes -o $@ resume/resume.sil
 
 publish: build
 	cd public
