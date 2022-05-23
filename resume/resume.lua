@@ -1,4 +1,4 @@
--- Copyright 2021 Jeremy Wall
+-- Copyright 2022 Jeremy Wall
 -- 
 -- Licensed under the Apache License, Version 2.0 (the "License");
 -- you may not use this file except in compliance with the License.
@@ -75,13 +75,13 @@ SILE.registerCommand("resume", function(opts, content)
     if author == "" then
         SILE.warn("resume.author was empty. Author info will be missing.")
     else
-        SILE.call("pdf:metadata", {key="Author", val=author}, "")
+        SILE.call("pdf:metadata", {key="Author", value=author}, "")
     end
     local keywords = SILE.settings.get("resume.keywords")
     if keywords == "" then
         SILE.warn("resume.keywords was empty. site keywords will be missing.")
     else
-        SILE.call("pdf:metadata", {key="Keywords", val=keywords}, "")
+        SILE.call("pdf:metadata", {key="Keywords", value=keywords}, "")
     end
     local email = SILE.settings.get("resume.email")
     if email == "" then
