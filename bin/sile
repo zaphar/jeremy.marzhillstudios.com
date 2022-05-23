@@ -1,0 +1,2 @@
+project_dir=$(dirname $(dirname $0))
+nix run ${project_dir}/nix/sile#sile -- $@
