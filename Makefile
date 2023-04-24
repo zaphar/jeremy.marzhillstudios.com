@@ -4,7 +4,7 @@ build: content/.built static/pdf/resume-jeremy-wall.pdf
 all: build deploy
 
 content/.built: $(content) static/pdf/resume-jeremy-wall.pdf
-	nix-shell -p zola --command "zola build -o public/"
+	nix run .#zola -- build -o public/
 	touch content/.built
 
 resume: static/pdf/resume-jeremy-wall.pdf
