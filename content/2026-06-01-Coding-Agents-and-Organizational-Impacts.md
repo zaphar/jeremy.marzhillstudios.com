@@ -28,7 +28,7 @@ This essay is not going to go talk about how to get the best results from a
 coding agent or opine on the level of quality they produce. I have opinions
 on these things but that will probably have to wait for a later essay. This
 one is an attempt to forecast the impact of these tools on software development
-teams, and how those impacts will affect an organizations ability to scale
+teams, and how those impacts will affect an organization's ability to scale
 their usage.
 
 <!--
@@ -41,16 +41,16 @@ their usage.
 
 Before agents came along we knew that collaboration and coordination was a
 major time sink of engineering teams. Most developers didn't spend 8 hours a
-day 40 days a week typing into an editor. They discussed architecture, hunted
+day 40 hours a week typing into an editor. They discussed architecture, hunted
 down requirements, UI mocks or wireframes for that feature they needed to get
-done or reviewed their colleagues code and sought out code review for theirs.
+done or reviewed their colleagues' code and sought out code review for theirs.
 The larger the team supporting a product the more communication overhead they
 experienced. This overhead was necessary to ensure that everyone was moving
 in the same direction. They had the same standards for the code and architecture.
 They were solving the same product problems. They followed the same UI standards.
 
 An agent can produce code that compiles and runs for some set of happy paths
-much faster than an human dev can. This means they will without coordination
+much faster than a human dev can. This means they will, without coordination,
 entice a dev or a team to keep pushing on. Just one more feature, bro. Look how
 productive we are! This tendency introduces a risk that the team will start
 fragmenting the codebase and the various approaches over time. The longer the
@@ -58,10 +58,10 @@ dev + agent goes without touching base with the rest of the team the higher the
 risk that the code will go astray and need fixing up. The fix is to speed up
 the cadence of collaboration to keep up. Agents add communication overhead more
 than they reduce it though. Instead of Janet and George getting on the same
-page it is now Janet's agent, Janets, George, and George's agents all getting
+page it is now Janet's agent, Janet, George, and George's agents all getting
 on the same page. In my own experiments this overhead only grows the more people
 you introduce. At some point the coordination becomes a hard limit on how fast
-you can go. This is not say that agent's won't increase your velocity. They do.
+you can go. This is not to say that agents won't increase your velocity. They do.
 But it is at the cost of higher collaboration and communication overhead.
 
 <!--
@@ -75,7 +75,7 @@ But it is at the cost of higher collaboration and communication overhead.
 
 ## Impact isn't understood until the artifacts exist
 
-Core to this limit is that a coding agent will naturally push a developer to
+Core to this limit is that a coding agent will naturally push a developer into
 doing larger bodies of work without getting feedback first. The loop is
 addictive and roughly about half of your developers are probably already
 naturally solitary creatures. They will easily rearchitect half the application
@@ -83,7 +83,7 @@ and land a -2000, +4000 edit change in a PR for someone to review without even
 realizing it. They may only have spent a week on it but it may be a week of
 lost work and wasted token spend because the PR went in a direction that the
 tech lead happens to know won't work. Getting early and frequent feedback might
-turn that week into a week and half instead with considerable overhead and the
+turn that week into a week and a half instead with considerable overhead and the
 speed won't look quite as impressive but the output won't be wasted.
 
 <!--
@@ -98,9 +98,9 @@ Out of the box a coding agent is unlikely to have good taste when it comes to
 the architecture of your system. They are very much the average of opinions of
 the public internet's discourse on good system design. As a result their
 opinions are usually wrong but not obviously so. Further complicating it is
-that many of your developers will have varying opinions on the subject not all
-of the agreeing and they will steer the agent with those opinions. Sometimes
-intentionally and sometimes just from they way they structure their requests.
+that many of your developers will have varying opinions on the subject, not all
+of them agreeing, and they will steer the agent with those opinions. Sometimes
+intentionally and sometimes just from the way they structure their requests.
 The result is that no two devs with an agent are going to produce code with the
 same architectural guiding principles. You can't encode enough of that into
 your system prompts to make that happen. Getting good results means you need
@@ -114,13 +114,13 @@ your devs and the product team.
 
 ## The workflow loop is a slot machine
 
-The startup cost for a new feature bug fix or refactor for that new idea you
-had with an agent is remarkably low. Without even realizing it your team
+The startup cost for a new feature, bug fix, or refactor for that new idea you
+had with an agent is remarkably low. Without even realizing it, your team
 members can find themselves on a treadmill churning out code they barely
 understand. Going back and forth with the agent feeling productive but also
 massively disconnected from what they are producing. This creates a high risk
-for burnout. There is no obvious offramp from the work. You pull the lever code
-comes out and your just a few more tokens away from the perfect feature.
+for burnout. There is no obvious offramp from the work. You pull the lever, code
+comes out, and you're just a few more tokens away from the perfect feature.
 
 <!--
 - The next bug / feature / refactor startup cost is so low that burnout is a very high risk.
@@ -130,8 +130,8 @@ comes out and your just a few more tokens away from the perfect feature.
 
 If you try to force yourself to be engaged with the actual results of the
 process you find yourself fighting the system. There is a massive temptation to
-give the agent full freedom so it can go even faster. You start to feel as you
-yourself are the roadblack with all your opinions/questions and feedback. Never
+give the agent full freedom so it can go even faster. You start to feel as if you
+yourself are the roadblock with all your opinions/questions and feedback. Never
 mind that those are the actual value you bring to the process.
 
 <!--
@@ -141,7 +141,7 @@ mind that those are the actual value you bring to the process.
 
 ## Humans are bad at multi-tasking
 
-There is a strong tempation to celebrate or encourage people working on 5
+There is a strong temptation to celebrate or encourage people working on 5
 different things using 10 agents at once. Constantly switching back and forth
 between them keeping all the agents busy. No one is good at keeping that much
 state coherent in their head. They may feel productive but they'll also be
@@ -159,7 +159,7 @@ respond or take action in some way. The prose however is overly long and
 ingratiating. The last thing you want to do is try to read and understand it.
 You probably fed it to an agent so that agent could summarize it for you.
 Before you know it your entire team has stopped thinking. They are just a
-glorified messenger service for each others agents. Agent's are terrible at
+glorified messenger service for each other's agents. Agents are terrible at
 clearly and concisely helping you communicate and think about the work they are
 doing.
 
