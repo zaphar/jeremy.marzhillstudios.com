@@ -12,8 +12,6 @@ tags = [
 +++
 # Coding Agents and Organizational Impacts
 
-<!-- OUTLINE / DRAFT -->
-
 ## Introduction
 
 Unless you have been living under a rock over the last year you are probably
@@ -30,12 +28,6 @@ on these things but that will probably have to wait for a later essay. This
 one is an attempt to forecast the impact of these tools on software development
 teams, and how those impacts will affect an organization's ability to scale
 their usage.
-
-<!--
-- Most of the conversation about agentic coding is about individual productivity. Less attention is going to what it does at the team and organization level — which is where I think the harder questions actually are.
-- Thesis: a lot of what kept teams aligned and code healthy came from friction we never had to think about — the pace of work, the cost of starting something, the fact that someone had to read what got written. Agents reduce that friction dramatically. That's genuinely valuable, and it also quietly removes things that were doing real work for us.
-- This isn't a case against agents. It's an attempt to name the second-order effects so we can decide what to do about them on purpose.
--->
 
 ## Team collaboration as a limiter on speed
 
@@ -70,15 +62,6 @@ you introduce. At some point the coordination becomes a hard limit on how fast
 you can go. This is not to say that agents won't increase your velocity. They do.
 But it is at the cost of higher collaboration and communication overhead.
 
-<!--
-- The size and speed of agent-generated change leaves more room for team divergence.
-- When everyone can move fast in their own direction, the implicit coordination that used to happen naturally (slower pace = more chances to align) erodes.
-- *(Expand: what mechanisms used to keep teams converged, and which of them break under agent speed.)*
-- The more unmonitored work an agent does, the harder it becomes to maintain quality.
-- Quality is a function of attention; agents decouple output volume from human attention.
-- *(Expand: where the attention has to go instead — review, design, intent.)*
--->
-
 ## Agents have distinctly average to poor design and architecture instincts
 
 Part of why teams diverge like this is the agent itself. Out of the box a coding
@@ -93,11 +76,6 @@ with an agent are going to produce code with the same architectural guiding
 principles. You can't encode enough of that into your system prompts to make
 that happen. Getting good results means you need code review against a documented
 standard and frequent coordination between your devs and the product team.
-
-<!--
-- This is further complicated by the fact that an agent has poor design and architecture instincts.
-- The human still has to own the shape of the system; the agent won't reliably find it.
--->
 
 ## Impact isn't understood until the artifacts exist
 
@@ -120,12 +98,6 @@ week on it, but it may be a week of lost work and wasted token spend because the
 PR went in a direction the tech lead happens to know won't work. Building got
 cheap. Understanding what got built didn't.
 
-<!--
-- Many design and architecture choices' impacts are not fully understood until the code is created.
-- Unifying a team of diverging agents is going to incur communication overhead and/or rework.
-- *(Expand: the "explore by building" loop, and why that's expensive to reconcile across multiple agents/people.)*
--->
-
 ## The workflow loop is a slot machine
 
 The startup cost for a new feature, bug fix, or refactor for that new idea you
@@ -139,23 +111,12 @@ offramp from the work. The machine never tells you to stop, and the perfect
 feature always feels like just a few more tokens away. This creates a high risk
 for burnout.
 
-<!--
-- The next bug / feature / refactor startup cost is so low that burnout is a very high risk.
-- With no natural friction between tasks, there's no built-in recovery; the work never has to stop.
-- *(Expand: what guardrails individuals and orgs need to protect against this.)*
--->
-
 The machine has a second way of getting you. The moment you slow down to
 question what it produced, push back, or ask for changes, you start to feel like
 you are the roadblock. The machine is fast, and
 you, with all your opinions and questions, are what's slowing it down. So you're
 tempted to just give the agent full freedom and get out of its way. Never mind
 that those opinions and questions are the actual value you bring.
-
-<!--
-- There is a persistent temptation to bail out early and give the agent full freedom.
-- Why this is seductive and why it's a trap — it trades short-term ease for the divergence/rework costs above.
--->
 
 ## Humans are bad at multi-tasking
 
@@ -200,11 +161,6 @@ what they mean. When one agent writes the message and another agent reads it the
 words still get from one person to the other, but the understanding that used to
 come with them never forms on either end. The communication still happens. The
 thinking it was supposed to carry quietly drops out.
-
-<!--
-- By themselves, agents will crowd out the space for thought.
-- The constant availability of "just have the agent do it" displaces the slower thinking that good engineering depends on.
--->
 
 # Strategies
 
