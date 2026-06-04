@@ -1,5 +1,5 @@
 +++
-title = "Coding Agents and Organizational Impacts"
+title = "Coding Agents on Teams"
 date = "2026-06-01"
 in_search_index = true
 [taxonomies]
@@ -10,7 +10,7 @@ tags = [
     "essay",
 ]
 +++
-# Coding Agents and Organizational Impacts
+# Coding Agents on Teams
 
 ## Introduction
 
@@ -26,8 +26,10 @@ This essay is not going to go talk about how to get the best results from a
 coding agent or opine on the level of quality they produce. I have opinions
 on these things but that will probably have to wait for a later essay. This
 one is an attempt to forecast the impact of these tools on software development
-teams, and how those impacts will affect an organization's ability to scale
-their usage.
+teams, and how those impacts shape an organization's ability to scale their use.
+Most of the attention so far has gone to what an agent does for a single
+developer. The more interesting questions are a level higher, where a team has
+to absorb everything those agents produce.
 
 ## Team collaboration as a limiter on speed
 
